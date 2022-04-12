@@ -1,0 +1,20 @@
+tr, td {
+  padding: 5px;
+  text-align: center;
+  border: medium;  
+}
+
+th {
+  padding: 5px;
+  text-align: center;
+  background-color: #D3D3D3;
+  font-weight: normal; 
+  border: medium;  
+}
+
+.cardsTable {
+  text-align: center;
+  padding: 15px;   
+  width: 100%; 
+  border: medium;    
+}
